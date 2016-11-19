@@ -1,0 +1,5 @@
+DB_PASS="pass-for-the-database"
+DB_CONT_NAME="example.com-mariadb"
+DB_DATA_NAME="example.com-mariadb-data"
+WP_CONT_NAME="example.com-wordpress"
+WP_DATA_NAME="example.com-wordpress-data"
